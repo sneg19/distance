@@ -1,0 +1,15 @@
+/home/sneg/Documents/C#/distance/bin/Debug/net7.0/distance
+/home/sneg/Documents/C#/distance/bin/Debug/net7.0/distance.deps.json
+/home/sneg/Documents/C#/distance/bin/Debug/net7.0/distance.runtimeconfig.json
+/home/sneg/Documents/C#/distance/bin/Debug/net7.0/distance.dll
+/home/sneg/Documents/C#/distance/bin/Debug/net7.0/distance.pdb
+/home/sneg/Documents/C#/distance/obj/Debug/net7.0/distance.csproj.AssemblyReference.cache
+/home/sneg/Documents/C#/distance/obj/Debug/net7.0/distance.GeneratedMSBuildEditorConfig.editorconfig
+/home/sneg/Documents/C#/distance/obj/Debug/net7.0/distance.AssemblyInfoInputs.cache
+/home/sneg/Documents/C#/distance/obj/Debug/net7.0/distance.AssemblyInfo.cs
+/home/sneg/Documents/C#/distance/obj/Debug/net7.0/distance.csproj.CoreCompileInputs.cache
+/home/sneg/Documents/C#/distance/obj/Debug/net7.0/distance.dll
+/home/sneg/Documents/C#/distance/obj/Debug/net7.0/refint/distance.dll
+/home/sneg/Documents/C#/distance/obj/Debug/net7.0/distance.pdb
+/home/sneg/Documents/C#/distance/obj/Debug/net7.0/distance.genruntimeconfig.cache
+/home/sneg/Documents/C#/distance/obj/Debug/net7.0/ref/distance.dll
